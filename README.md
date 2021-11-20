@@ -1,5 +1,9 @@
-## Usage
-* The code for our models is in model_factory, we separated the encoder/decoder into different classes. In our experiment file, we added a comment block in line 74 which allows us to disable/enable the load_experiment method. Additionally, we implemented a few more transformations in dataset_factory.
+#### Image Captioning with a LSTM Network (CSE 151B PA 4) ####
+- CoCo dataset
+- Encoder
+- Decoder
+- Vanilla Recurrent Neural Network
+- LSTM
 
 ## Files
 - main.py: Main driver class
